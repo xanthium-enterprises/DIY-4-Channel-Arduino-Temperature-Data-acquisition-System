@@ -1,5 +1,7 @@
 # DIY 4 Channel Arduino Temperature Data acquisition System
 
+![PC temperature monitoring using arduino and LM35](https://www.xanthium.in/sites/default/files/site-images/arduino-daq-system/arduino-daq-pc-temperature-monitor.jpg)
+
 - A cheap low cost diy data acquisition based on Arduino UNO which can monitor tempearture data from 4 independent analog temperature sensors and display it on a PC/Laptop/Mac 
 
 - [DIY 4 Channel Arduino Temperature Data acquisition System - Online Tutorial](https://www.xanthium.in/lm-35-four-channel-arduino-data-acquisition-system-temperature-sensing)
